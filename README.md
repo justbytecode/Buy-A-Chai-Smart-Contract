@@ -20,7 +20,7 @@ Clone the repository
 git clone https://github.com/justbytetalk/buy-me-a-coffee.git
 cd buy-me-a-coffee
 
-Install dependencies
+Install dependencies :
 npm install
 
 Compile the contract :
